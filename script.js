@@ -32,7 +32,7 @@ function checkSolution() {
         feedback.textContent = 'Correct!';
         feedback.style.color = 'green';
     } else {
-        feedback.textContent = 'Incorrect. Try again!';
+        feedback.textContent = 'FUCK OFF. Try again!';
         feedback.style.color = 'red';
     }
 }
